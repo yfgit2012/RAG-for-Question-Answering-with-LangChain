@@ -12,9 +12,9 @@
 
 ### Use cases  
 
-* Basic RAG pipeline for question answering tasks 
+* Basic RAG pipeline for question answering task [notebook](https://github.com/yfgit2012/RAG-for-Question-Answering-with-LangChain/blob/main/notebook/RAG_LLM_Langchain_notebook.ipynb) 
 
-* Conversational retrieval chain for chat history 
+* Conversational retrieval chain for chat history [notebook](https://github.com/yfgit2012/RAG-for-Question-Answering-with-LangChain/blob/main/notebook/RAG_LLM_LangChain_chathistory_notebook.ipynb)
 
 * Retrieve data from image 
 
